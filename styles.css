@@ -1,13 +1,16 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    /* background-color: #f4f4f4; */
     margin: 0;
     padding: 0;
+    /* width: 100%; */
+    background-size: 100%;
+    background-image: url( https://img.freepik.com/free-photo/anime-moon-landscape_23-2151645909.jpg?t=st=1724947884~exp=1724951484~hmac=51d462317ab31b12b811b23e9eb0dbebcdb519c102125fb4d0c2a3e8e4d0f15b&w=996);
 }
 
 .container {
     width: 300px;
-    margin: 50px auto;
+    margin: 204px auto;
     background: #fff;
     padding: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
